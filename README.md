@@ -12,13 +12,13 @@
 💣 **Attack Size -> 500 Mb/s**
 
 ****
-# CONTACT
+# 📞 __CONTACT__
 
-**__[C0ded By xNullCode / Deneb / Ghosty]__**
+__[C0ded By xNullCode / Deneb / Ghosty]__
                         
 __Discord: Deneb,#6666__    
 __Telegram: t.me/zGhosty__       
 
-**__[C0ded By xNullCode / Deneb / Ghosty]__**
+__[C0ded By xNullCode / Deneb / Ghosty]__
 
 ****
