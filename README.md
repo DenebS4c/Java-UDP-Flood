@@ -7,7 +7,7 @@
 ****
 # __💎 Use UDP-Flood__
 
-⌨ __java -jar RompeAnos.py__
+⌨ __java -jar RompeAnos.jar__
 
 💣 **Attack Size -> 500 Mb/s**
 
